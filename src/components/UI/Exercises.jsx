@@ -13,7 +13,7 @@ const Exercises = () => {
             Benefits of <span className="highlights">Exercise</span>
           </h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing <br />
+            Exercising is good for Health <br />
             elit. Error quidem, nam nihil expedita atque modi
           </p>
         </div>
